@@ -1,27 +1,22 @@
 import React  from "react";
 import ReactDOM from "react-dom";
 
-import Card from "./Card"
-import SData from "./series_data";
-import Sdata from './series_data'
-
-function nCard(val){
-  return (
-    <Card 
-    imgsrc={val.imgsrc}
-    title = {val.title} 
-    sname={val.sname}
-    link= {val.link}
-  />
-  )
-}
-
+import App from './App'
 ReactDOM.render(
-  <>
-      <h1>TOP 10 Netflix Series</h1>
-      {SData.map(nCard)}
-  </>
-, document.getElementById('root')
+<App />, document.getElementById('root')
 );
 
 
+// general function 
+// function myadd(a,b){
+//   return a+b;
+// }wifi adaptor
+
+// fat arrow function
+
+// const myadd = (a,b)=>{
+//   return a+b;
+// }
+
+// for inline 
+// const myadd = (a,b)=>a+b
