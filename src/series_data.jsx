@@ -15,7 +15,7 @@ const SData = [
     },{
         id : 3,
     imgsrc:"https://occ-0-4111-3663.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQCcYpChthxsZQ5WGbjtoPKANvAlzetRttqwMu3n5gl1D4jisccCMbgAcFfBmwXIOfjQeCdIzDZ47FAkX85kZQTUKcISpo3Uio8WEhFWXhhMhw3yUBx-Z0ymyCVd.jpg?r=cfa",
-    title : "A Netflix Original Series",
+    title : "A Amazon Series",
     sname:"Money Heist",
     link:"https://www.netflix.com/np/title/80192098"},
     {
